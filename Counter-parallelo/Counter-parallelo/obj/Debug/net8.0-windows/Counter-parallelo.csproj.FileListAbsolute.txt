@@ -1,0 +1,16 @@
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter_parallelo.Form1.resources
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.csproj.GenerateResource.cache
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.GeneratedMSBuildEditorConfig.editorconfig
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.AssemblyInfoInputs.cache
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.AssemblyInfo.cs
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.csproj.CoreCompileInputs.cache
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\bin\Debug\net8.0-windows\Counter-parallelo.exe
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\bin\Debug\net8.0-windows\Counter-parallelo.deps.json
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\bin\Debug\net8.0-windows\Counter-parallelo.runtimeconfig.json
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\bin\Debug\net8.0-windows\Counter-parallelo.dll
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\bin\Debug\net8.0-windows\Counter-parallelo.pdb
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.dll
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\refint\Counter-parallelo.dll
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.pdb
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\Counter-parallelo.genruntimeconfig.cache
+F:\MRA\TPS\Counter-parallelo\Counter-parallelo\obj\Debug\net8.0-windows\ref\Counter-parallelo.dll
